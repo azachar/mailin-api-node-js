@@ -2,7 +2,7 @@
   "name": "mailin-api",
   "version": "2.0.0",
   "description": "sendinblue API wrapper for node.js",
-  "main": "V2\mailin.js",
+  "main": "V2.0\\mailin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
